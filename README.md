@@ -9,4 +9,4 @@ When successfully started, the server runs on [http://localhost:8080/](http://lo
 
 ## example of forwarding a request using proxy
 
-![steps needed for communication with server](proxy-forwarding.png)
+![steps needed for communication with server](./proxy-forwarding.png)
